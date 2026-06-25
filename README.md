@@ -4,7 +4,7 @@
 
 ### Full Stack Developer from Sri Lanka
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Spring+Boot+Developer;React+Frontend+Developer;MySQL+Database+Designer;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=SpringBoot+Backend+Developer;React+Frontend+Developer;MySQL+Database+Designer;Build+Modern+Web+Applications" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Ceylon-Vistas&label=Profile%20Views&color=blue&style=for-the-badge" />
@@ -12,25 +12,21 @@
 
 </div>
 
----
-
 # 🚀 About Me
 
 ```java
-public class CeylonVistas {
-
+class CeylonVistas {
     String role = "Full Stack Developer";
-
-    String backend = "Spring Boot";
+    String backend = "SpringBoot";
     String frontend = "React";
     String database = "MySQL";
-    String styling = "Tailwind CSS";
 
-    String currentFocus = "Building scalable web applications";
+    public static void main(String[] args) {
+        CeylonVistas cv = new CeylonVistas();
+        System.out.println("I am a " + cv.role + ". I use " + cv.backend + " as my backend framework, " + cv.frontend + " as my frontend library, and " + cv.database + " as my database management system. I build modern, scalable, and responsive web applications, develop REST APIs, design databases, and create user-friendly interfaces. I also use Tailwind CSS for styling, Postman for API testing, Git and GitHub for version control, and IntelliJ IDEA and VS Code for development.");
+    }
 }
 ```
-
----
 
 # 🛠 Tech Stack
 
@@ -39,8 +35,6 @@ public class CeylonVistas {
 <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,mysql,tailwind,git,github,vscode,idea,postman"/>
 
 </div>
-
----
 
 # 📊 GitHub Analytics
 
@@ -52,8 +46,6 @@ public class CeylonVistas {
 
 </div>
 
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -61,8 +53,6 @@ public class CeylonVistas {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ceylon-Vistas&theme=tokyonight"/>
 
 </div>
-
----
 
 # 🌱 Currently Learning
 
@@ -72,8 +62,6 @@ public class CeylonVistas {
 - AWS
 - CI/CD
 
----
-
 # 🎯 2026 Goals
 
 - Build enterprise-level applications
@@ -81,14 +69,10 @@ public class CeylonVistas {
 - Contribute to Open Source
 - Learn Kubernetes
 
----
-
 # 📫 Connect With Me
 
 - 📧 Email: kavithmaceylonvistas@gmail.com
 - 💻 GitHub: https://github.com/Ceylon-Vistas
-
----
 
 <div align="center">
 
