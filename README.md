@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hi, I'm Ceylon Vistas
 
 ### Full Stack Developer from Sri Lanka
@@ -9,8 +7,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Ceylon-Vistas&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
-
-</div>
 
 # 🚀 About Me
 
@@ -35,29 +31,16 @@ class CeylonVistas {
 
 # 🛠 Tech Stack
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,mysql,tailwind,git,github,vscode,idea,postman"/>
-
-</div>
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ceylon-Vistas&show_icons=true&theme=tokyonight"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceylon-Vistas&layout=compact&theme=tokyonight"/>
-
-</div>
 
 # 🔥 GitHub Streak
 
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ceylon-Vistas&theme=tokyonight"/>
-
-</div>
 
 # 🌱 Currently Learning
 
