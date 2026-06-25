@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hi, I'm Ceylon Vistas
 
 ### Full Stack Developer from Sri Lanka
@@ -7,6 +9,8 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Ceylon-Vistas&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
+
+</div>
 
 # 🚀 About Me
 
