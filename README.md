@@ -46,21 +46,6 @@ class CeylonVistas {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ceylon-Vistas&theme=tokyonight"/>
 
-# 🌱 Currently Learning
-
-- Spring Security
-- Microservices
-- Docker
-- AWS
-- CI/CD
-
-# 🎯 2026 Goals
-
-- Build enterprise-level applications
-- Master Microservices Architecture
-- Contribute to Open Source
-- Learn Kubernetes
-
 # 📫 Connect With Me
 
 - 📧 Email: kavithmaceylonvistas@gmail.com
